@@ -1,0 +1,6 @@
+Pick your army! (Edit their numbers):
+3 Pawn
+1 Archer
+2 Mountain_Troll
+1 Ice_Troll
+2 Torchman

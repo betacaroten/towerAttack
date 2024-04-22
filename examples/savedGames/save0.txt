@@ -1,0 +1,87 @@
+map
+8 8 7 5 3 0
+xwall 0 0 X
+xwall 0 1 X
+wall 0 2 #
+wall 0 3 #
+xwall 0 4 X
+xwall 0 5 X
+xwall 0 6 X
+xwall 0 7 X
+xwall 1 0 X
+blank 1 1
+blank 1 2
+blank 1 3
+blank 1 4
+blank 1 5
+blank 1 6
+wall 1 7 #
+xwall 2 0 X
+xwall 2 1 X
+blank 2 2
+blank 2 3
+blank 2 4
+blank 2 5
+blank 2 6
+wall 2 7 #
+blank 3 0
+blank 3 1
+blank 3 2
+blank 3 3
+blank 3 4
+blank 3 5
+blank 3 6
+wall 3 7 #
+xwall 4 0 X
+blank 4 1
+xwall 4 2 X
+MountainTroll 4 3 4 5
+blank 4 4
+blank 4 5
+blank 4 6
+wall 4 7 #
+xwall 5 0 X
+blank 5 1
+blank 5 2
+blank 5 3
+xwall 5 4 X
+blank 5 5
+blank 5 6
+wall 5 7 #
+xwall 6 0 X
+blank 6 1
+blank 6 2
+MountainTroll 6 3 21 1
+blank 6 4
+IceTroll 6 5 26 3
+blank 6 6
+wall 6 7 #
+xwall 7 0 X
+xwall 7 1 X
+xwall 7 2 X
+wall 7 3 #
+wall 7 4 #
+blank 7 5
+wall 7 6 #
+xwall 7 7 X
+end
+:) 0 5
+Pawn -2 -2 0 0
+Pawn -2 -2 -1 1
+Pawn -2 -2 0 0
+Pawn -2 -2 -1 0
+Archer -1 -1 20 30
+MountainTroll 4 3 4 5
+MountainTroll 6 3 21 1
+IceTroll 6 5 26 3
+IceTroll -1 -1 26 3
+TorchMan -1 -1 10 2
+TorchMan -1 -1 10 2
+end
+AI 1 4
+IceTower -2 -2 -3 1
+FireTower -2 -2 0 1
+BasicTower -2 -2 -5 6
+BasicTower -2 -2 -5 2
+BasicTower -2 -2 -5 6
+end

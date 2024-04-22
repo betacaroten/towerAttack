@@ -1,0 +1,15 @@
+8 8
+XX##XXXX
+X      #
+XX     #
+e      #
+X X    #
+X   X  #
+X      #
+XXX####X
+
+B 3 //BasicTower
+F 1 //FireTower
+I 1 //IceTower
+Z 0 //ShockTower
+S 0 //SniperTower

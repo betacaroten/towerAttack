@@ -1,0 +1,220 @@
+map
+12 16 0 8 0 2
+xwall 0 0 X
+xwall 0 1 X
+blank 0 2
+xwall 0 3 X
+xwall 0 4 X
+xwall 0 5 X
+xwall 0 6 X
+xwall 0 7 X
+blank 0 8
+wall 0 9 #
+wall 0 10 #
+wall 0 11 #
+wall 0 12 #
+wall 0 13 #
+wall 0 14 #
+xwall 0 15 X
+xwall 1 0 X
+blank 1 1
+blank 1 2
+blank 1 3
+blank 1 4
+blank 1 5
+blank 1 6
+xwall 1 7 X
+blank 1 8
+blank 1 9
+blank 1 10
+blank 1 11
+blank 1 12
+blank 1 13
+blank 1 14
+wall 1 15 #
+xwall 2 0 X
+blank 2 1
+blank 2 2
+blank 2 3
+blank 2 4
+xwall 2 5 X
+blank 2 6
+blank 2 7
+blank 2 8
+blank 2 9
+blank 2 10
+blank 2 11
+blank 2 12
+blank 2 13
+blank 2 14
+wall 2 15 #
+xwall 3 0 X
+blank 3 1
+blank 3 2
+xwall 3 3 X
+blank 3 4
+blank 3 5
+blank 3 6
+blank 3 7
+blank 3 8
+blank 3 9
+blank 3 10
+blank 3 11
+blank 3 12
+blank 3 13
+blank 3 14
+wall 3 15 #
+wall 4 0 #
+blank 4 1
+blank 4 2
+blank 4 3
+blank 4 4
+blank 4 5
+blank 4 6
+blank 4 7
+blank 4 8
+blank 4 9
+blank 4 10
+blank 4 11
+blank 4 12
+blank 4 13
+blank 4 14
+wall 4 15 #
+wall 5 0 #
+blank 5 1
+xwall 5 2 X
+xwall 5 3 X
+xwall 5 4 X
+blank 5 5
+xwall 5 6 X
+xwall 5 7 X
+blank 5 8
+blank 5 9
+blank 5 10
+blank 5 11
+blank 5 12
+blank 5 13
+blank 5 14
+wall 5 15 #
+wall 6 0 #
+blank 6 1
+blank 6 2
+blank 6 3
+blank 6 4
+IceTower 6 5 5 2
+blank 6 6
+xwall 6 7 X
+xwall 6 8 X
+xwall 6 9 X
+blank 6 10
+xwall 6 11 X
+xwall 6 12 X
+xwall 6 13 X
+xwall 6 14 X
+xwall 6 15 X
+wall 7 0 #
+blank 7 1
+blank 7 2
+blank 7 3
+blank 7 4
+blank 7 5
+blank 7 6
+blank 7 7
+blank 7 8
+xwall 7 9 X
+blank 7 10
+blank 7 11
+blank 7 12
+blank 7 13
+blank 7 14
+wall 7 15 #
+wall 8 0 #
+blank 8 1
+blank 8 2
+blank 8 3
+blank 8 4
+blank 8 5
+blank 8 6
+blank 8 7
+blank 8 8
+xwall 8 9 X
+xwall 8 10 X
+xwall 8 11 X
+blank 8 12
+blank 8 13
+blank 8 14
+wall 8 15 #
+wall 9 0 #
+blank 9 1
+blank 9 2
+FireTower 9 3 12 1
+blank 9 4
+blank 9 5
+blank 9 6
+blank 9 7
+blank 9 8
+blank 9 9
+blank 9 10
+blank 9 11
+blank 9 12
+blank 9 13
+blank 9 14
+wall 9 15 #
+wall 10 0 #
+blank 10 1
+blank 10 2
+blank 10 3
+blank 10 4
+blank 10 5
+blank 10 6
+blank 10 7
+blank 10 8
+blank 10 9
+blank 10 10
+blank 10 11
+blank 10 12
+blank 10 13
+blank 10 14
+wall 10 15 #
+xwall 11 0 X
+wall 11 1 #
+wall 11 2 #
+wall 11 3 #
+wall 11 4 #
+wall 11 5 #
+wall 11 6 #
+wall 11 7 #
+wall 11 8 #
+wall 11 9 #
+wall 11 10 #
+wall 11 11 #
+wall 11 12 #
+wall 11 13 #
+wall 11 14 #
+xwall 11 15 X
+end
+:) 1 11
+Pawn -2 -2 0 1
+Pawn -2 -2 0 1
+Pawn -2 -2 0 0
+Archer -2 -2 2 20
+Archer -2 -2 -1 29
+Archer -2 -2 13 29
+Archer -2 -2 5 14
+MountainTroll -2 -2 42 5
+MountainTroll -2 -2 30 1
+MountainTroll -2 -2 33 5
+IceTroll -2 -2 -1 3
+IceTroll -2 -2 -2 2
+TorchMan -2 -2 0 2
+TorchMan -2 -2 -1 2
+end
+AI 0 8
+FireTower 9 3 12 1
+FireTower -2 -2 0 0
+IceTower 6 5 5 2
+IceTower -2 -2 -3 3
+IceTower -2 -2 -1 1
+IceTower -2 -2 -2 0
+BasicTower -2 -2 -4 5
+end
